@@ -316,3 +316,5 @@ data received from the provider.
 [omniauth]: https://github.com/intridea/omniauth
 [list_of_strategies]:
   https://github.com/omniauth/omniauth/wiki/List-of-Strategies
+
+  .env
